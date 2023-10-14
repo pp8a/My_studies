@@ -1,2 +1,2 @@
-# My_test
+# My tests
 My studies

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsi:customers xmlns:xsi="http://www.example.org/customers" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+    <xsi:customer id="1">
+        <xsi:id>1</xsi:id>
+        <xsi:name>John Doe</xsi:name>
+        <xsi:phone>123-456-7890</xsi:phone>
+        <xsi:about><![CDATA[Customer description first]]></xsi:about>
+        <xsi:age>30</xsi:age>
+        <xsi:balance>1000.00</xsi:balance>
+        <xsi:active>true</xsi:active>
+        <xsi:joined>2023-10-12 15:30:00</xsi:joined>
+    </xsi:customer>
+    <xsi:customer id="2">
+        <xsi:id>2</xsi:id>
+        <xsi:name>John Ril</xsi:name>
+        <xsi:phone>123-000-7890</xsi:phone>
+        <xsi:about><![CDATA[Customer description second]]></xsi:about>
+        <xsi:age>25</xsi:age>
+        <xsi:balance>2000.00</xsi:balance>
+        <xsi:active>true</xsi:active>
+        <xsi:joined>2023-12-12 16:30:00</xsi:joined>
+    </xsi:customer>
+</xsi:customers>

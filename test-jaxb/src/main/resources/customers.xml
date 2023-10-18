@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xsi:customers xmlns:xsi="http://example.com/customers">
+    <xsi:customer xsi:id="1">
+        <xsi:name>John Dol</xsi:name>
+        <xsi:phone>123-456-7890</xsi:phone>
+        <xsi:about>Description 1</xsi:about>
+        <xsi:age>30</xsi:age>
+        <xsi:balance>1000.0</xsi:balance>
+        <xsi:active>true</xsi:active>
+        <xsi:joined>2023-10-18 18:44:40</xsi:joined>
+    </xsi:customer>
+    <xsi:customer xsi:id="2">
+        <xsi:name>Jane Smith</xsi:name>
+        <xsi:phone>987-654-3210</xsi:phone>
+        <xsi:about>Description 2</xsi:about>
+        <xsi:age>25</xsi:age>
+        <xsi:balance>2000.0</xsi:balance>
+        <xsi:active>false</xsi:active>
+        <xsi:joined>2023-10-18 18:44:40</xsi:joined>
+    </xsi:customer>
+    <xsi:customer xsi:id="3">
+        <xsi:name>Bamb Smoot</xsi:name>
+        <xsi:phone>987-654-0000</xsi:phone>
+        <xsi:about>Description 3</xsi:about>
+        <xsi:age>27</xsi:age>
+        <xsi:balance>5500.0</xsi:balance>
+        <xsi:active>true</xsi:active>
+        <xsi:joined>2023-10-18 18:44:40</xsi:joined>
+    </xsi:customer>
+</xsi:customers>
